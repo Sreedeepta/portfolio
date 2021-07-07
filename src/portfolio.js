@@ -8,10 +8,10 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Sreedeepta Mitra",
-  logo_name: "Miftaul Mannan",
-  nickname: "Tasin",
+  logo_name: "Sreedeepta Mitra",
+  nickname: "Tinni",
   subTitle:
-    "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
+    "An aspiring developer who loves to take on new projects that challenges her technological capacities.",
   resumeLink:
     "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
   portfolio_repository: "https://github.com/Tasin5541",
