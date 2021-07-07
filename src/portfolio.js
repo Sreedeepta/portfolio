@@ -7,7 +7,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
+  title: "Sreedeepta Mitra",
   logo_name: "Miftaul Mannan",
   nickname: "Tasin",
   subTitle:
